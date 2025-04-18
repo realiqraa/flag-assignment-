@@ -1,0 +1,23 @@
+.upper {
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+  }
+
+  .a {
+    height: 100px;
+    width: 600px;
+    background-color:#ed1c24;
+  }
+
+  .b {
+    height: 100px;
+    width: 600px;
+    background-color: #ffffff;
+  }
+
+  .c {
+    height: 100px;
+    width: 600px;
+    background-color: #0066b3;
+  }
